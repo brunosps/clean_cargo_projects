@@ -63,7 +63,3 @@ This tool is especially useful for developers managing multiple Rust projects wh
 2. **Run the script globally**:
    ```bash
    clean_cargo_projects /projects
-
-   
-
-
