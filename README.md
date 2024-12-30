@@ -51,4 +51,19 @@ Will execute cargo clean in:
 
 This tool is especially useful for developers managing multiple Rust projects who need to clean them up efficiently.
 
+## Optional: Install the Script Globally
+1. **Compile the Script**:
+   ```bash
+   rustc clean_cargo_projects.rs
+
+2. **Copy the binary to /usr/local/bin**:
+   ```bash
+   sudo mv clean_cargo_projects /usr/local/bin
+
+2. **Run the script globally**:
+   ```bash
+   clean_cargo_projects /projects
+
+   
+
 
