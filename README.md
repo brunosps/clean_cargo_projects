@@ -43,9 +43,12 @@ Running:
 
 Will execute cargo clean in:
 
-/projects/project1
-/projects/project2
-/projects/other/project3
+- /projects/project1
+
+- /projects/project2
+
+- /projects/other/project3
+
 This tool is especially useful for developers managing multiple Rust projects who need to clean them up efficiently.
 
 
